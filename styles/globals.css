@@ -10,4 +10,5 @@
   box-sizing: border-box;
   font-family: "Kaisei Tokumin", serif;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
